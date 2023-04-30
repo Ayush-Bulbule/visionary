@@ -1,0 +1,22 @@
+<svg class='header-bg' viewBox="0 0 808 631" version="1.1" xmlns="http://www.w3.org/2000/svg"
+                    xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+                    <desc>Created with Sketch.</desc>
+                    <defs>
+                        <linearGradient x1="88.4506255%" y1="9.72878675%" x2="13.3391982%" y2="100%"
+                            id="linearGradient-1">
+                            <stop stop-color="#EC6FA1" offset="0%"></stop>
+                            <stop stop-color="#E58C5C" offset="100%"></stop>
+                        </linearGradient>
+                    </defs>
+                    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                        <g id="Desktop-HD-Copy" transform="translate(-632.000000, 0.000000)"
+                            fill="url(#linearGradient-1)">
+                            <g id="landing" transform="translate(118.000000, -18.000000)">
+                                <polygon id="bg"
+                                    points="510 2.91453662 678.86824 648.277449 1356.49913 457.953034 1361.06039 0">
+                                </polygon>
+                            </g>
+                        </g>
+                    </g>
+                </svg>
